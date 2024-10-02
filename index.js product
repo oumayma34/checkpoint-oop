@@ -1,0 +1,9 @@
+// Classe Product pour définir les propriétés des produits
+class Product {
+    constructor(id, name, price) {
+      this.id = id;        // Identifiant unique du produit
+      this.name = name;    // Nom du produit
+      this.price = price;  // Prix du produit
+    }
+  }
+  
